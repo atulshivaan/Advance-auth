@@ -1,4 +1,4 @@
-AdvanceAuth
+
 AdvanceAuth is a modern authentication system built using Node.js, Express, and MongoDB. It provides secure and reliable user authentication, email verification, and password management features for your applications.
 
 Project Overview
