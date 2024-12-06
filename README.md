@@ -27,7 +27,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/atulshivaan/advanceauth.git
+git clone https://github.com/atulshivaan/Advance-auth
 
 Navigate to the project directory:
 bash
